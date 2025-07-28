@@ -1,11 +1,7 @@
-alert('Boas vindas ao nosso site!');
-let nome = Lua;
-let idade = 25;
-let numeroDeVendas = 50;
-let saldoDisponivel = 1000;
-let mensagemDeErro = "Erro! Preencha todos os campos";
-alert ("Erro! Preencha todos os campos");
-// condição if  usado para atribuição (=) , para comparação e (==) ou (===), o operador (==) verificar se os valores são iguais, enquanto (===) verificar se os valores e os tipos são iguais.
-if (numeroSecreto == chute) {
-    console.log('Parabéns, você acertou!');
- }
+alert('Boas vindas ao jogo do número secreto');
+let numeroSecreto = 5;
+let chute = prompt('Escolha um número entre 1 e 10');
+
+if (chute == numeroSecreto) {
+    console.log('Isso ai! Você descobriu o número secreto (5)');
+}
