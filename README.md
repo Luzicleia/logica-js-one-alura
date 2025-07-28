@@ -7,6 +7,6 @@ Este repositório contém os exercícios e projetos feitos durante o curso de l�
 - Else e comentários
 - Condicionais 
 -  concatenação
-- Loops e tetativas
+- Loops e tentativas
 - Boas práticas de programação
 - Desafios
